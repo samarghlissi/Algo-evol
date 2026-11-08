@@ -1,9 +1,8 @@
 # TD Heuristiques & Méta-heuristiques – LSI3
 
-Faculté des Sciences de Sfax – Université de Sfax
-Réalisé par : **Nom Prénom** – Groupe : **…**
 
-Ce dépôt contient les programmes Python et le compte rendu du TD & Rendu.
+Réalisé par : **Ghlissi Samar** – Groupe : **LSI3 3TP2**
+
 
 | Exercice | Problème | Méthodes | Fichier |
 |---|---|---|---|
@@ -13,8 +12,8 @@ Ce dépôt contient les programmes Python et le compte rendu du TD & Rendu.
 
 
 ```bash
-python ex2.py
-python ex3.py
+python EX2.py
+python EX3.py
 ```
 
 Dans PyCharm : clic droit sur le fichier, puis *Run*.
