@@ -41,7 +41,7 @@ Dans PyCharm : clic droit sur le fichier, puis *Run*.
 
 ### Capture d'exécution
 
-![Exécution exercice 2](captures/ex2.png)
+![Exécution exercice 2](ex2.png)
 
 ---
 
@@ -62,7 +62,7 @@ Le recuit simulé et l'algorithme génétique utilisent le hasard : les résulta
 
 ### Capture d'exécution
 
-![Exécution exercice 3](captures/ex3.png)
+![Exécution exercice 3](ex3.png)
 
 ---
 
