@@ -46,7 +46,7 @@ Un chromosome est la suite des 7 gènes. Croisement et mutation ne touchent que 
 ## Fichiers
 
 - `exercice_cedule.py` : le programme complet, commenté (données, codage, performance, sélection, croisement, mutations, AG, comparaison)
-- `captures/ex4.png` : capture de l'exécution
+- `captures/ex4cap1.png` ,`captures/ex4cap2.png` : captures de l'exécution
 
 ## Exécution
 
@@ -74,4 +74,4 @@ L'inversion et l'échange ne font que réarranger des gènes déjà présents ; 
 
 ### Capture d'exécution
 
-![Exécution exercice 4](captures/ex4.png)
+![Exécution exercice 4](captures/ex4cap1.png,captures/ex4cap2.png)
