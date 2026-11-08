@@ -6,8 +6,8 @@ Réalisé par : **Ghlissi Samar** – Groupe : **LSI3 3TP2**
 
 | Exercice | Problème | Méthodes | Fichier |
 |---|---|---|---|
-| 2 | Transport de containers (dépôts → magasins) | Recherche tabou | `ex2.py` |
-| 3 | Voyageur de commerce (8 villes) | Tabou, recuit simulé, algorithme génétique | `ex3.py` |
+| 2 | Transport de containers (dépôts → magasins) | Recherche tabou | `EX2.py` |
+| 3 | Voyageur de commerce (8 villes) | Tabou, recuit simulé, algorithme génétique | `EX3.py` |
 
 
 
