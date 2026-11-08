@@ -74,4 +74,7 @@ L'inversion et l'échange ne font que réarranger des gènes déjà présents ; 
 
 ### Capture d'exécution
 
-![Exécution exercice 4](captures/ex4cap1.png,captures/ex4cap2.png)
+<p align="center">
+  <img src="captures/ex4cap1.png" alt="Exécution exercice 4 - capture 1" width="48%">
+  <img src="captures/ex4cap2.png" alt="Exécution exercice 4 - capture 2" width="48%">
+</p>
