@@ -16,7 +16,6 @@ python EX2.py
 python EX3.py
 ```
 
-Dans PyCharm : clic droit sur le fichier, puis *Run*.
 
 ---
 
@@ -65,7 +64,3 @@ Le recuit simulé et l'algorithme génétique utilisent le hasard : les résulta
 
 ---
 
-## Références
-
-- Cours *Heuristiques & Méta-heuristiques*, Hala Bezine, Faculté des Sciences de Sfax
-- Énoncé du TD & Rendu (exercices 2 et 3)
