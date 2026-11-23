@@ -86,4 +86,4 @@ Le problème est facile pour l'AG : une solution faisable est trouvée en quelqu
 
 ### Capture d'exécution
 
-![Exécution exercice jetons](![execution_ex2.png](capture/execution_ex2.png)captures/execution.png)
+![Exécution exercice jetons](![execution_ex2.png](execution_ex2.png)
