@@ -116,4 +116,4 @@ Sur 30 exécutions indépendantes, l'algorithme trouve la sortie **30 fois sur 3
 
 ### Capture d'exécution
 
-![Exécution exercice labyrinthe](![execution_ex1.png](capture/execution_ex1.png)captures/execution.png)
+![Exécution exercice labyrinthe](execution_ex1.png)
